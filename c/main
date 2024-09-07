@@ -1,0 +1,4 @@
+int first = 5;
+string second = "4";
+int total = first + second;
+Console.WriteLine(total);
